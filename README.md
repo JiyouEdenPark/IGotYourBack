@@ -54,7 +54,17 @@ Connect the components together in the following order:
 | Pin 5 | MG996R Servo | Y-Axis Motor |
 | Pin 9 | MG996R Servo | Z-Axis Motor |
 | Pin 15 | SG-5010 Servo | State Flag Motor |
+| VIN | Hall Effect Sensor | VIN |
+| VIN | MG996R Servo (X-Axis) | VIN |
+| VIN | MG996R Servo (Y-Axis) | VIN |
+| VIN | MG996R Servo (Z-Axis) | VIN |
+| VIN | SG-5010 Servo | VIN |
 | VIN | Power Supply | 5V/2A Input |
+| GND | Hall Effect Sensor | Ground |
+| GND | MG996R Servo (X-Axis) | Ground |
+| GND | MG996R Servo (Y-Axis) | Ground |
+| GND | MG996R Servo (Z-Axis) | Ground |
+| GND | SG-5010 Servo | Ground |
 | GND | Power Supply | Ground |
 
 Notes:
