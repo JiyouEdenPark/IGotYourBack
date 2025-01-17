@@ -37,8 +37,9 @@ In this day and age where we are inundated by ubiquitous and instantaneous commu
   - Output: 0-30V DC, 0-5A
   - Recommended setting: 5V/2A
 
-<!-- ### 3D Printed Parts -->
-<!-- [3D Printed Parts will be added here] -->
+### 3D Printed Parts 
+- Robot Arm Extend Body
+- Robot Arm Extend Pen
 
 <!-- ### Circuit Diagram -->
 <!-- [Circuit diagram will be added here] -->
@@ -70,7 +71,8 @@ Connect the components together in the following order:
 Notes:
 - Each servo motor requires:
   - One 220μF capacitor for noise reduction
-  - One 470μF capacitor for power stabilization
+- Power supply input requires:
+  - Three 470μF capacitors for power stabilization
 - Use solid core wire for circuit connections
 - Use stranded wire for servo extensions
 
