@@ -36,10 +36,18 @@ In this day and age where we are inundated by ubiquitous and instantaneous commu
 - [Switching Power Supply](https://www.circuitspecialists.com/csi3005sm)
   - Output: 0-30V DC, 0-5A
   - Recommended setting: 5V/2A
+- [ROT3U 6DOF Robot Arm](https://www.amazon.com/diymore-Aluminium-Mechanical-Robotic-Unassembled/dp/B0CJ4WR949) x1
+  - Aluminum frame structure
+  - Modified for project requirements
+- Indicator Body
+  - Based on [this model](https://www.youtube.com/watch?v=YqrbWCVa3xA)
+  - Modified version used as initial prototype
 
 ### 3D Printed Parts 
 - Robot Arm Extend Body
 - Robot Arm Extend Pen
+
+You can find the STL files in the `RobotArmStl` directory.
 
 <!-- ### Circuit Diagram -->
 <!-- [Circuit diagram will be added here] -->
